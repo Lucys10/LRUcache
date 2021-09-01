@@ -1,1 +1,1 @@
-# lru-cache
+# Lru-cache training implementation on the Golang.
